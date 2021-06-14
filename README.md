@@ -1,5 +1,5 @@
 # CSIgen v1.1
-![](EnePro_icon.png)
+![](CSIgen_icon.png)
 
 A computational supporting information generator.
 
