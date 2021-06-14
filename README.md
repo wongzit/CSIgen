@@ -3,7 +3,7 @@
 
 A computational supporting information generator.
 
-**Homepage** https://www.wangzhe95.net/program-enepro
+**Homepage** https://www.wangzhe95.net/program-csigen
 
 First release: 2021-04-02
 
