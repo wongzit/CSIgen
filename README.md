@@ -2,7 +2,7 @@
 ![](CSIgen_full.png)
 
 A computational supporting information generator.
-![](CSIgen_gif.gif)
+![](CSIgen_ins.gif)
 
 **Homepage** https://www.wangzhe95.net/program-csigen
 
